@@ -272,7 +272,7 @@
 
       function linkDirective(scope, element, attrs) {
         $timeout(function() {
-          clamp(element[0], Object.assign(defaultConfig, attrs.config));
+          clamp(element[0], Object.assign(defaultConfig, { clamp: attrs.clamp }));
         });
       }
     }
