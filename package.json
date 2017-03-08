@@ -1,6 +1,6 @@
 {
   "name": "ng-clamp",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Angular wrapper directive for clamp.js",
   "main": "ng-clamp.js",
   "repository": {

@@ -272,6 +272,13 @@
 
       function linkDirective(scope, element, attrs) {
         $timeout(function() {
+
+          if (!element.attr("title")) {
+              // to provide better readability, we set the element's title attribute with the (unclamped) innerText in case it doesn't have a title anyway
+              element.attr("title", element.text().trim());
+          }
+
+
           clamp(element[0], Object.assign(defaultConfig, { clamp: attrs.clamp }));
         });
       }
