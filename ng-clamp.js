@@ -234,6 +234,13 @@
         sty.display = '-webkit-box';
         sty.webkitLineClamp = clampValue;
 
+        // ensure that long words don't overflow the container by enforcing a break with hyphen
+        sty.wordWrap = 'break-word';
+        sty.wordBreak = 'break-word';
+        sty.hyphens = 'auto';
+
+
+
         if (isCSSValue) {
           sty.height = opt.clamp + 'px';
         }

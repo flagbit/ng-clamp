@@ -12,6 +12,10 @@ A simple to use Angular directive for truncating text. Allows multi-line truncat
 MIT
 
 ## Changelog
+* v1.1.0:
+    + preventing overflow of long words or URLs by inserting a break with a hyphen
+* v1.0.7:
+    + changed package name to ng-clamp1 and published to npm
 * v1.0.6:
     + to provide better readability, the element's title attribute is set with the (unclamped) innerText in case it doesn't have a title already
 * v1.0.5:

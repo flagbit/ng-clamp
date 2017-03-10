@@ -1,13 +1,13 @@
 {
   "name": "ng-clamp1",
-  "version": "1.0.7",
+  "version": "1.1.0",
   "description": "Angular wrapper directive for clamp.js",
   "main": "ng-clamp.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mobiletainment/ng-clamp.git"
   },
-  "author": "Vygintas Ranonis, David Pertiller (fork)",
+  "author": "Vygintas Ranonis, David Pertiller",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/mobiletainment/ng-clamp/issues"
