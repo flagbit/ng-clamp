@@ -16,8 +16,10 @@ MIT
 
 
 ## Changelog
+* v1.1.3:
+    * update bower.json
 * v1.1.2:
-    + add issue tracking url
+    + add URL for issue tracking
 * v1.1.1:
     + vendor prefixes for hyphening
 * v1.1.0:

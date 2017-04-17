@@ -3,13 +3,20 @@
   "main": [
       "ng-clamp.js"
   ],
-  "authors": ["Vygintas Ranonis"],
+  "authors": ["David Pertiller", "Vygintas Ranonis"],
   "description": "Angular 1.x wrapper for clamp.js",
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/mobiletainment/ng-clamp.git"
   },
+  "keywords": [
+    "clamp",
+    "overflow",
+    "text",
+    "ellipsis",
+    "multiline"
+  ],
   "ignore": [
     "node_modules",
     "**/.*"
