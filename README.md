@@ -12,11 +12,14 @@ A simple to use Angular directive for truncating text. Allows multi-line truncat
 MIT
 
 ## Want to help?
-+ Contact the author at <david@pertiller.net> or visit [pertiller.net](https://www.pertiller.net)
-
++ Contact the author at <david@pertiller.net> or visit [www.pertiller.net](https://www.pertiller.net).
 
 
 ## Changelog
+* v1.1.2:
+    + add issue tracking url
+* v1.1.1:
+    + vendor prefixes for hyphening
 * v1.1.0:
     + preventing overflow of long words or URLs by inserting a break with a hyphen
 * v1.0.7:
