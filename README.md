@@ -16,6 +16,8 @@ MIT
 
 
 ## Changelog
+* v1.1.4:
+    * fixed issue in IE when assigning default configuration
 * v1.1.3:
     * update bower.json
 * v1.1.2:
