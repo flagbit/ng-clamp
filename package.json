@@ -14,7 +14,7 @@
     "ellipsis",
     "multiline"
   ],
-  "author": "David Pertiller, Vygintas Ranonis",
+  "author": "David Pertiller, Vygintas Ranonis and the ng-clamp contributors",
   "license": "MIT",
   "bugs": {
     "url": "https://www.pertiller.net/issues"

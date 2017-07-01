@@ -17,7 +17,8 @@ MIT
 
 ## Changelog
 * v1.2.0:
-    + incorporated fork from https://github.com/shoutem/Clamp.js which enables multi-line clamping in IE, amongst others
+    + incorporated fork from https://github.com/shoutem/Clamp.js
+    (which enables multi-line clamping in IE, amongst others)
 * v1.1.4:
     * fixed issue in IE when assigning default configuration
 * v1.1.3:
