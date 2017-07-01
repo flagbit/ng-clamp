@@ -270,10 +270,8 @@
       var directive = {
           restrict: 'A',
           link: linkDirective
-        },
-        defaultConfig = {
-          clamp: 3
-        };
+      };
+
 
       return directive;
 
@@ -286,7 +284,7 @@
           }
 
 
-          clamp(element[0], Object.assign(defaultConfig, { clamp: attrs.clamp }));
+          clamp(element[0], { clamp: attrs.clamp });
         });
       }
     }
