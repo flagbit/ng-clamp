@@ -16,6 +16,8 @@ MIT
 
 
 ## Changelog
+* v1.2.1:
+    * fix calculation of line-height and max-height
 * v1.2.0:
     + incorporated fork from https://github.com/shoutem/Clamp.js
     (which enables multi-line clamping in IE, amongst others)

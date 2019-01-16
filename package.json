@@ -1,6 +1,6 @@
 {
-  "name": "ng-clamp1",
-  "version": "1.2.0",
+  "name": "@flagbit/ng-clamp",
+  "version": "1.2.1",
   "description": "Angular 1.x directive for clamp.js",
   "main": "ng-clamp.js",
   "repository": {
